@@ -1,12 +1,4 @@
 <?php
-function gcd($a,$b) {
-    while (($c = $a % $b) != 0) {
-        $a = $b;
-        $b = $c;
-    }
-    return $b;
-}
-
 $a =0;$b=0; $c=0;
 $s = 1000;
 $m=0;$n=0;
