@@ -33,6 +33,4 @@ for($i=0;$i<$batas;$i++){
 	}
 }
 echo $max; 
-
-
 ?>
